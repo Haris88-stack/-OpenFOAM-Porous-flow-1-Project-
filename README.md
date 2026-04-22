@@ -13,8 +13,8 @@ The repository is organized around a Porous Flow framework using the interFoam s
 Within the 2D extruded cases, three types of porous media structures are investigated:
 
 - **Regular arrays:** particles arranged in a uniform grid
-Staggered arrays: particles arranged in offset configurations to enhance pore connectivity
-Random arrangements: particles distributed non-uniformly to mimic more realistic porous structures
+- **Staggered arrays:** particles arranged in offset configurations to enhance pore connectivity
+- **Random arrangements:** particles distributed non-uniformly to mimic more realistic porous structures
 
 ## 3D Cases
 
@@ -40,8 +40,8 @@ In all cases:
 
 For the random porous media cases, two additional configurations are considered:
 
-**Particles of uniform size**
-**Particles of varying sizes**
+-**Particles of uniform size**
+-**Particles of varying sizes**
 
 This allows investigation of the effect of pore size distribution on flow dynamics.
 
