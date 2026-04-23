@@ -130,4 +130,7 @@ This project allows:
 
 - Investigation of the impact of particle arrangement and size distribution on stratified multiphase flow
 
+Download the full project folder here: [porous_flow.zip](porous_flow.zip)
+
+
 
