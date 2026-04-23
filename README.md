@@ -33,7 +33,7 @@ Within the 2D extruded cases, three types of porous media structures are investi
 
 - **Random arrangements:** particles distributed non-uniformly to mimic more realistic porous structures
 
-**3D Cases**
+**3D Cases:**
 The 3D configurations follow a structure similar to the 2D extruded cases, including regular, staggered, and random porous media arrangements. The same four‑fluid multiphase flow scenario (water–air–oil–mercury) is investigated under gravity‑driven conditions.
 
 However, in contrast to the 2D random cases, only particles of uniform size are considered in the 3D simulations. This allows for a clearer analysis of three-dimensional flow behavior while keeping the geometric complexity manageable.
