@@ -79,9 +79,8 @@ This allows investigation of the effect of pore size distribution on flow dynami
 The simulations use the standard pressure formulation of the multiphaseInterFoam solver. fixedFluxPressure is applied on boundaries.
 
 # Cases Structure
-text
-PorousFlow/
-└── multiphaseInterFoam/
+
+ PorousFlow
     ├── 2D_extruded/
     │   ├── regular/
     │   ├── staggered/
